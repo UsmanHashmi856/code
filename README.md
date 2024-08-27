@@ -1,5 +1,5 @@
 # Introduction to GitHub
-> this is quote
+#> this is quote
 **This text is bold**\
 *This text is italics*\
 ***This text is both bold and italics***\
